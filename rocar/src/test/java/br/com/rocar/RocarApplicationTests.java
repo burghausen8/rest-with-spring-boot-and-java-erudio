@@ -1,4 +1,4 @@
-package br.com.erudio.rocar;
+package br.com.rocar;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
